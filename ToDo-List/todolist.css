@@ -1,0 +1,39 @@
+body{
+    height: 30px;
+    width: 400px;
+    margin: 0 500px;
+    
+}
+header{
+    background-color: blue;
+    text-align: center;
+    width: 400px;
+    color: aliceblue;
+    border: 1px solid wheat;
+    margin-top: 20px;
+}
+.task_Section{
+    background-color: bisque;
+    /* padding: 2px; */
+    width: 400px;
+    border: 1px solid burlywood;
+    margin-top: 3px;
+}
+.h3_c{
+    width: 400px;
+    
+    background-color: antiquewhite;
+    margin-top: 5px;
+    color: brown;
+    padding: 20px 0 10px 0;
+    border: 1px solid brown;
+    
+}
+h3{
+    text-align: center;
+}
+ul li{
+    margin-left: 0 0 0 0;
+    
+
+}
